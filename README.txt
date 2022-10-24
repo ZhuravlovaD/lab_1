@@ -1,1 +1,1 @@
-Над проектом работают два разработчика: First Developer
+Над проектом работают два разработчика: First Developer, Second Developer.
